@@ -19,23 +19,23 @@ geoloca -  Nuria  POLO Peinado
 
 **Resumen** : Este proyecto 
 
-**Estilo/género:**  Novela / juego
+**Estilo/género:**  Juegp
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : No se ha creado ningun logotico mas que la fuente de la letra y el tamaño.
 
 (insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   El programna original Hippani
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 25.40MB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 09 06 2022
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** en este caso en ninguna
 
 - Github:
 - Twitter
@@ -54,11 +54,13 @@ geoloca -  Nuria  POLO Peinado
 
 
 
-### 2.2. Esquema de navegación 
+### 2.2. Esquema de navegación ![20220421_212348](https://user-images.githubusercontent.com/106830397/172823047-f3f1b58c-fd11-4705-a1d8-34a030afe99f.jpg)
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+
+(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)![20220408_202914](https://user-images.githubusercontent.com/106830397/172822493-f543a8d2-ff37-46c9-bf83-2ded9d11ce1c.jpg)
+
 
 
 
@@ -82,14 +84,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 
 **Motivación de la propuesta** 
-
-Este  proyecto es interesante porque ... 
+La motivacion pricipal era conocer los parametrso de creación de personajes animados. Este programa es bastante basico para tal cometido ya que lo unico que permite es movimientos erraticos y en bucle algo que para mi motivación no es demasiado interesante por no poder sacar mas  beneficio de este programa el Hippani.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+todos los publicos sobre todo a los que  estan aburridos.
 
 
 
@@ -99,23 +100,22 @@ Este  proyecto es interesante porque ...
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
+- Juego.  Esta es la opción elegida, y probls muchos para desarrollar la tarea sobre todo conforme va adquieriendo peso el programa se queda pillado y no ejecuta ademas de desaparecer información ya escrita. Sin contar todas las veces que he corregido e intentado exportar sin ningun exito.
 - Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- El ususario puede seleccionar en configuracion su estilo de musica, para ello hay disponibles 2, ademas puede modular el tono con frecuencia baja o alta. Puede retroceder en las paginas al igual que saltarlas, puede silenciar o activar el sonido.
+- En el menu puede encontrar las diferentes opciones, galeria, configuracion, juego
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Los descritos en la anterior pregunta.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Estaria bien que fuera  mas actual y sobre todo actualizado
 
 
 
