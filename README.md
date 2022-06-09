@@ -17,7 +17,7 @@ geoloca -  Nuria  POLO Peinado
 
 
 
-**Resumen** : Este proyecto 
+**Resumen** : Este proyecto  era de inicio muy ambicioso, conforme avanzaron las dificultades tuve que reconducir el proyecto del juego y lo que iba a ser una aventura, se convirtio en un absurdo juego que tiene su punto por lo que el resumen estaria bien decir ironicamente,  frikada+ 
 
 **Estilo/género:**  Juegp
 
@@ -25,7 +25,7 @@ geoloca -  Nuria  POLO Peinado
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+
 
 **Probado en:**   El programna original Hippani
 
@@ -54,7 +54,7 @@ geoloca -  Nuria  POLO Peinado
 
 
 
-### 2.2. Esquema de navegación ![20220421_212348](https://user-images.githubusercontent.com/106830397/172823047-f3f1b58c-fd11-4705-a1d8-34a030afe99f.jpg)
+### 2.2. Esquema de navegación 
 
 
 
