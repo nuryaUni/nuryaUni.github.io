@@ -114,13 +114,13 @@ todos los publicos sobre todo a los que  estan aburridos y les gusta las cosas r
 
 ### Etapa 3: Problemas identificados
 
-Los descritos en la anterior pregunta.
+Los descritos en la anterior pregunta. ademas de que estaria bien que fuera mas actualy con mas funciones, mas intuitivo.
 
 
 
 # 4. Conclusiones 
 
-Estaria bien que fuera  mas actual y sobre todo actualizado
+Indepemnmente de las dificultades me he divertido  ideando y creando  un sentido ha este proyecto.
 
 
 
