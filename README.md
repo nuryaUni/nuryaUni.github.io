@@ -21,7 +21,8 @@ geoloca -  Nuria  POLO Peinado
 
 **Estilo/género:**  Juegp
 
-**Logotipo** : No se ha creado ningun logotico mas que la fuente de la letra y el tamaño.
+**Logotipo** : No se ha creado ningun logotico mas que la fuente de la letra y el tamaño.![20220408_202921](https://user-images.githubusercontent.com/106830397/173014129-304fe524-2c75-4113-a7b7-8419463c7fe6.jpg)
+
 
 (insertar imágenes a resolucion de 100px alto)
 
