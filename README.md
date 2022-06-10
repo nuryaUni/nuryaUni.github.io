@@ -54,7 +54,8 @@ geoloca -  Nuria  POLO Peinado
 
 
 
-### 2.2. Esquema de navegación 
+### 2.2. Esquema de navegación ![20220610_102505](https://user-images.githubusercontent.com/106830397/173024362-b8234a30-089e-4208-8b67-008290a87c10.jpg)
+
 
 
 
