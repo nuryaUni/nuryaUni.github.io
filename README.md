@@ -95,7 +95,7 @@ La motivacion pricipal era conocer los parametrso de creación de personajes ani
 
 **Publico / audiencia**
 
-todos los publicos sobre todo a los que  estan aburridos.
+todos los publicos sobre todo a los que  estan aburridos y les gusta las cosas raras.
 
 
 
@@ -132,8 +132,9 @@ Estaria bien que fuera  mas actual y sobre todo actualizado
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+https://puregaming.es/top-10-juegos-raros-absurdos/
 
+https://vandal.elespanol.com/retro/mr-moskeeto
 **Recursos y materiales audiovisuales:**
 
 * Musica:  
