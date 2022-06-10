@@ -17,7 +17,7 @@ geoloca -  Nuria  POLO Peinado
 
 
 
-**Resumen** : Este proyecto  era de inicio muy ambicioso, conforme avanzaron las dificultades tuve que reconducir el proyecto del juego y lo que iba a ser una aventura, se convirtio en un absurdo juego que tiene su punto por lo que el resumen estaria bien decir ironicamente,  frikada+ 
+**Resumen** : Este proyecto  era de inicio muy ambicioso, conforme avanzaron las dificultades tuve que reconducir el proyecto del juego y lo que iba a ser una aventura, se convirtio en un absurdo juego que tiene su punto por lo que el resumen estaria bien decir ironicamente,  que es una frikada de juego.
 
 **Estilo/género:**  Juegp
 
@@ -44,7 +44,7 @@ geoloca -  Nuria  POLO Peinado
 
 # 2. Memoria del proyecto 
 
-### 2.1 Storyboard: 
+### 2.1 Storyboard:  Basicamamente trata de  recoger los maximos objetos ( botellas para l parte de copas y cocos en la parte de playa) con la dificultad de donde tienen que ser recogidas esta en movimiento y en bucle.
 
 
 
@@ -77,8 +77,11 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 
 ### Etapa 1: Ideación de proyecto
+Cuando simplifique mi proyecto de juego y volver a reconducirlo, busque referencias de juegos pateticos y absurdos para dar sentido a mi proyecto, enconte bastantes juegos que de incio fueron criticados por absurdos y que años depsues se convirtie en  top top!!!.  Mi idea incial era crear un sinsentido muy loco con recorridos y peripecias de la protagonista del juego, la dificultad vendria del uso del movil y tener que tomar deciciones  rapidas por estar practicamente sin bateria, todo esto era lo que convertiria en una locura todas las escenas y deciciones tomadas.
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
+En la busqueda de referentes si existian juegos absurdos encontre este; https://vandal.elespanol.com/retro/mr-moskeeto Mister Mosquito no salio de las fronteras de sus creadores pero luego se convirtio en motivo de coleccionists. Continue en las busque de mas juehgos absurdos para dar sentido al mio y en contre esta pagina  donde recoge  en un ranking bastates juegos raros;https://puregaming.es/top-10-juegos-raros-absurdos/
+Asi que mi inspiuración ha llega  de todos estos creadores que los imagino como yo.
 
 - Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
 - 
