@@ -41,9 +41,6 @@ geoloca -  Nuria  POLO Peinado
 - Twitter
 - Instagram
 
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
-
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
@@ -59,7 +56,8 @@ geoloca -  Nuria  POLO Peinado
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)![20220408_202914](https://user-images.githubusercontent.com/106830397/172822493-f543a8d2-ff37-46c9-bf83-2ded9d11ce1c.jpg)
+(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)![capturas](https://user-images.githubusercontent.com/106830397/173013008-6568be89-bae1-42c7-947f-347cdbb0e39f.jpg)
+
 
 
 
